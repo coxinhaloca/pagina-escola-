@@ -1,5 +1,15 @@
 header {
     background-color: aqua;
-    color: black;
-    
+    color: rgb(43, 38, 38);   
+}
+{
+    margin:0;
+    padding:0;
+}
+.cabeçario{
+    background-color: #424e61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
